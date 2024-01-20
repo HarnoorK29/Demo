@@ -17,7 +17,7 @@ public class JavaApplicationProject {
         // TODO code application logic here
         System.out.println("Harnoor Kaur Gill ....");
         System.out.println("hey !! how are you ?");
-        System.out.println("I have made a change ");
+        System.out.println("hey whats up ");
     }
     
 }
